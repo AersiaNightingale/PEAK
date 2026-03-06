@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Wing 4 -->
+<OverlayData>
+
+	<POIs>
+		<!-- Statues -->
+		<POI type="peak.w4.deimos.n" MapID="1188" xpos="-199.6227" ypos="357.7137" zpos="126.6658"
+			GUID="wzxHe40yC0yqyBNn8Efqeg==" />
+		<POI type="peak.w4.deimos.e" MapID="1188" xpos="-184.8349" ypos="357.7129" zpos="100.5784"
+			GUID="Hc8eRuhfg0eJoHmTaSuPig==" />
+		<POI type="peak.w4.deimos.s" MapID="1188" xpos="-211.0229" ypos="357.7132" zpos="86.07297"
+			GUID="bN0gi00s50aMpQEO6fyimw==" />
+		<POI type="peak.w4.deimos.w" MapID="1188" xpos="-226.0543" ypos="357.7129" zpos="112.1124"
+			GUID="AFm9t9jnSE+C/ftMJ71UGg==" />
+
+		<!-- Skips -->
+		<POI type="peak.w4.skips.b1" MapID="1188" xpos="188.036" ypos="40.73811" zpos="66.2895"
+			GUID="u4I0pGPaSUmv96Yy+6ukjw==" iconfile="Data/markers/skills/blink.png" iconSize="0.3"
+			heightOffset="-0.5" />
+		<POI type="peak.w4.skips.b1" MapID="1188" xpos="189.101" ypos="72.92825" zpos="67.61053"
+			GUID="XiibAo9j9UCSSwLDsiCRIQ==" iconfile="Data/markers/peak.png" iconSize="0.3"
+			heightOffset="-1.5" />
+		<POI type="peak.w4.skips.p1" MapID="1188" xpos="207.5019" ypos="27.78279" zpos="69.79719"
+			GUID="pf7LvC46FUCIg2BM0+cnsQ==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.skips.p1" MapID="1188" xpos="170.76" ypos="89.95116" zpos="82.82368"
+			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.skips.p2" MapID="1188" xpos="75.60638" ypos="105.7814" zpos="173.2348"
+			GUID="pf7LvC46FUCIg2BM0+cnsQ==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.skips.p2" MapID="1188" xpos="-46.38326" ypos="96.53172" zpos="188.2937"
+			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.agony.agony1" MapID="1188" xpos="361.6215" ypos="33.72034" zpos="46.0558"
+			GUID="oxNCWRqhNkCuHyJyhstOlQ==" iconfile="Data/markers/dot.png"
+			iconSize="0.4" color="FF33FF" heightOffset="-0.42" />
+		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-132.8638" ypos="125.3986" zpos="164.0437"
+			GUID="p3MO07z2y0i+9v/u7un8nw==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-198.5517" ypos="101.9231" zpos="98.96956"
+			GUID="HRv1v19jn0uRKgXRzhOdHw==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Spears -->
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-99.9579" ypos="129.039" zpos="88.3492"
+			guid="dIaeOfdzWECZ/QSzaxrwCA==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-100.077" ypos="129.039" zpos="68.0541"
+			guid="CZXBNoEqV0S0feDWl3a2cg==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-100.291" ypos="129.039" zpos="47.5306"
+			guid="gcd+XEVsXE6NFrXQ1qtysQ==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-81.6473" ypos="129.039" zpos="48.7055"
+			guid="YODJWNUj90+e8w+7roGsVg==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-80.8687" ypos="129.039" zpos="68.2828"
+			guid="B/fNMt018kek46/5asurSA==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-80.1187" ypos="129.039" zpos="87.1555"
+			guid="khddqMxi1UuZrVBNx+U9Hg==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-79.5845" ypos="129.039" zpos="106.197"
+			guid="sDXEHXbAVUeKZt6fpUGGlQ==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-99.0345" ypos="129.039" zpos="108.038"
+			guid="63Ox2DZ8aUeLEPM9jDdMbQ==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-118.275" ypos="129.039" zpos="108.482"
+			guid="lrsAnfNGAkySqcHSz0xMLw==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-119.001" ypos="129.039" zpos="88.5207"
+			guid="ORDUMRW/zU2GdRw86KoLHg==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-119.412" ypos="129.039" zpos="67.7453"
+			guid="ZE1ggr7V8EyGNyWfjNfPpw==" />
+		<poi type="peak.w4.samy.spears" mapid="1188" xpos="-119.615" ypos="129.039" zpos="46.3155"
+			guid="03arLwFQS0Gvzx4eqxLyBQ==" />
+
+		<!-- Stack Spots -->
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-75.65955" ypos="129.5138" zpos="77.46018"
+			GUID="9DXT6cgvpkqrsXvzlZGydA==" iconfile="Data/markers/numbers/1.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-90.6565" ypos="129.4998" zpos="70.62409"
+			GUID="NzM8IWJYzk6NKvnJ29OnZA==" iconfile="Data/markers/numbers/2.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-90.25434" ypos="129.5121" zpos="84.3097"
+			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/3.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-125.1438" ypos="129.5166" zpos="60.9625"
+			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/4.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-127.46" ypos="129.5237" zpos="77.98724"
+			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/5.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-117.1075" ypos="129.5586" zpos="79.82977"
+			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/6.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-109.9125" ypos="129.5992" zpos="70.38587"
+			GUID="pMlXlVwfpUGmNeVbfJnfTw==" iconfile="Data/markers/numbers/7.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-101.1629" ypos="129.4949" zpos="78.19231"
+			GUID="pMlXlVwfpUGmNeVbfJnfTw==" iconfile="Data/markers/numbers/8.png"
+			heightOffset="-0.2" />
+
+		<!-- Stack Spots -->
+		<POI type="peak.w4.samy.fp" MapID="1188" xpos="-132.6031" ypos="129.4804" zpos="73.59577"
+			GUID="UUaax2PLKUac1d1IDX6sJg==" iconfile="Data/markers/skills/temporal_curtain.png"
+			iconSize="0.5" heightOffset="-0.5" />
+	</POIs>
+
+</OverlayData>
+	

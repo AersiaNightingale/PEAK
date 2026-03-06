@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OverlayData>
+
+	<MarkerCategory name="peak" displayName="PEAK Markers">
+
+		<!-- Wing 2 -->
+		<MarkerCategory name="w2" displayname="Wing 2">
+			<MarkerCategory name="sloth" displayName="Sloth" fadenear="3000" fadefar="3100">
+				<MarkerCategory name="mush" displayName="Mushroom" />
+				<MarkerCategory name="fp" displayName="Focus Pull" />
+			</MarkerCategory>
+			<MarkerCategory name="skips" displayName="Skips">
+				<MarkerCategory name="p1" displayName="Mesmer Portal 1" iconsize="0.5" alpha="0.75"
+					fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="p2" displayName="Mesmer Portal 2" iconsize="0.5" alpha="0.75"
+					fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="p3" displayName="Thief Portal" iconsize="0.5" alpha="0.75"
+					fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="jp1" displayname="Trio JP" fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="jp2" displayname="Matthias JP" iconfile="Data/markers/dot.png"
+					color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+					heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+				<markercategory name="jp3" displayname="Matthias Cliff Skip"
+					iconfile="Data/markers/dot.png" color="FF0000" iconsize="0.2" alpha="0.75"
+					fadenear="2000" fadefar="2100" heightoffset="0" minimapvisibility="0"
+					mapvisibility="0" />
+				<markercategory name="mattpre" displayname="Matthias Pre Groups" alpha="0.75"
+					fadenear="3000" fadefar="3100" />
+			</MarkerCategory>
+			<MarkerCategory name="trio" displayName="Trio"/>
+			<MarkerCategory name="matt" displayName="Matthias"/>
+		</MarkerCategory>
+
+		<!-- Wing 3 -->
+		<MarkerCategory name="w3" displayname="Wing 3">
+			<MarkerCategory name="escort" displayName="Escort">
+				<markercategory name="overhere" displayname="Glenna SAK spots"
+					iconfile="Data/markers/skills/overhere.png" iconsize="0.5" alpha="0.75"
+					fadenear="6000" fadefar="6100" />
+				<markercategory name="caveskip" displayname="Cave Skip" iconsize="0.5" alpha="0.75"
+					fadenear="3000" fadefar="3100" />
+				<markercategory name="jp" displayname="Waterfall JP" iconfile="Data/markers/dot.png"
+					color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+					heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+				<markercategory name="towers" displayname="Towers" iconsize="0.5" alpha="0.75"
+					fadenear="4000" fadefar="4100" />
+			</MarkerCategory>
+			<MarkerCategory name="kc" displayName="Keep Construct">
+				<markercategory name="rift" displayname="Rift" iconsize="0.5" alpha="0.75"
+					fadenear="2500" fadefar="3000" heightoffset="0" />
+				<MarkerCategory name="fixate" displayName="Far Fixate" fadenear="2000"
+					fadefar="2500" />
+			</MarkerCategory>
+			<MarkerCategory name="tc" displayName="Twisted Castle">
+				<MarkerCategory name="ds" displayName="Druid Skip" minimapvisibility="0"
+					mapvisibility="0" fadenear="3000" fadefar="3100" />
+				<MarkerCategory name="door" displayName="Door" minimapvisibility="0"
+					mapvisibility="0" fadenear="3000" fadefar="3100" />
+				<MarkerCategory name="skips" displayName="Skips" fadenear="3500" fadefar="4000" />
+			</MarkerCategory>
+		</MarkerCategory>
+
+		<!-- Wing 4 -->
+		<MarkerCategory name="w4" displayName="Wing 4">
+			<MarkerCategory name="skips" displayName="Skips" fadeNear="2500" fadeFar="5000">
+				<MarkerCategory name="b1" displayName="Blink 1" />
+				<MarkerCategory name="p1" displayName="Wall Portal" />
+				<MarkerCategory name="p2" displayName="Shovel Portal" />
+				<MarkerCategory name="p3" displayName="Glenna Portal" />
+			</MarkerCategory>
+			<MarkerCategory name="agony" displayName="Agony" fadeNear="2500" fadeFar="5000"
+				miniMapVisibility="0" mapVisibility="0">
+				<MarkerCategory name="agony1" displayName="Agony 1" />
+			</MarkerCategory>
+			<MarkerCategory name="samy" displayName="Samarog" fadeNear="3000" fadeFar="4000">
+				<MarkerCategory name="spears" displayName="Spears" iconSize="0.5" alpha="0.5"
+					iconfile="Data/markers/dot.png" iconSize="0.4" heightOffset="-0.25"
+					miniMapVisibility="0" mapVisibility="0" />
+				<MarkerCategory name="stack" displayName="Stack" iconSize="1.2" />
+				<MarkerCategory name="fp" displayName="Focus Pull" />
+			</MarkerCategory>
+			<MarkerCategory name="deimos" displayName="Deimos" fadeNear="2500" fadeFar="5000">
+				<MarkerCategory name="n" displayName="North" iconFile="Data/Markers/direction/n.png" />
+				<MarkerCategory name="e" displayName="East" iconFile="Data/Markers/direction/e.png" />
+				<MarkerCategory name="s" displayName="South" iconFile="Data/Markers/direction/s.png" />
+				<MarkerCategory name="w" displayName="West" iconFile="Data/Markers/direction/w.png" />
+			</MarkerCategory>
+		</MarkerCategory>
+
+		<!-- Wing 5 -->
+		<MarkerCategory name="w5" displayName="Wing 5">
+			<MarkerCategory name="sh" displayName="Soulless Horror" fadeNear="2500" fadeFar="5000"
+				heightOffset="0" alpha="0.75" />
+			<MarkerCategory name="river" displayname="River" alpha="0.75" fadenear="3000"
+				fadefar="3100">
+				<MarkerCategory name="enervator" displayname="Enervator"
+					iconfile="Data/markers/dot.png" alpha="1" color="CC0066" fadenear="5000"
+					fadefar="5100" />
+				<MarkerCategory name="bomber" displayname="Bomber" iconfile="Data/markers/dot.png"
+					alpha="1" color="6600CC" fadenear="5000" fadefar="5100" />
+			</MarkerCategory>
+			<MarkerCategory name="statues" displayname="Statues">
+				<MarkerCategory name="king" displayname="Broken King" alpha="0.75" fadenear="3000"
+					fadefar="3100" />
+				<MarkerCategory name="eyes" displayname="Eyes" alpha="0.75" fadenear="3000"
+					fadefar="3100" mapvisibility="0" minimapvisibility="0" alpha="0.75"
+					iconfile="Data/markers/dot.png"
+					cull="CounterClockwise" color="dbc339"
+					iconsize="0.5"
+					rotate="180,0,-15" />
+			</MarkerCategory>
+			<MarkerCategory name="dhuum" displayname="Dhuum" alpha="0.75" fadenear="3000"
+				fadefar="3100" />
+		</MarkerCategory>
+
+		<!-- Wing 7 -->
+		<MarkerCategory name="w7" displayName="Wing 7">
+			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100">
+				<MarkerCategory name="n" displayName="North Pylon" color="00FF00" />
+				<MarkerCategory name="e" displayname="East Pylon" color="FF0000" />
+				<MarkerCategory name="w1" displayname="West Pylon (left)" color="7F00FF" />
+				<MarkerCategory name="w2" displayname="West Pylon (right)" color="FF33FF" />
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+</OverlayData>
+	

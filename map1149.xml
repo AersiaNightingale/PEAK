@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Wing 2 -->
+<OverlayData>
+
+	<POIs>
+		<!-- Sloth Marks -->
+		<POI type="peak.w2.sloth.mush" MapID="1149" xpos="207.7482" ypos="2.72185" zpos="15.14836"
+			GUID="d4H2AVaZKU2WN84r3qym9A==" iconfile="Data/markers/numbers/1.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w2.sloth.mush" MapID="1149" xpos="200.2306" ypos="1.691034" zpos="7.407605"
+			GUID="dvw4UmW1fkK8RZR5mc+fSQ==" iconfile="Data/markers/numbers/2.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w2.sloth.mush" MapID="1149" xpos="211.0438" ypos="1.447868" zpos="1.383643"
+			GUID="cjfMiO+G8EG3YPSlBGevTg==" iconfile="Data/markers/numbers/3.png"
+			heightOffset="-0.2" />
+		<POI type="peak.w2.sloth.mush" MapID="1149" xpos="225.9544" ypos="0.5165842"
+			zpos="-3.504808" GUID="AernjgihKEucBkhT+RI+Lg==" iconfile="Data/markers/icons/kitty.png"
+			heightOffset="-0.2" iconsize="0.7" alpha="0.75" />
+		<POI type="peak.w2.sloth.fp" MapID="1149" xpos="201.3502" ypos="0.9649829" zpos="-5.931126"
+			GUID="art4zB8bL0+XDO785wcIiA==" iconfile="Data/markers/skills/temporal_curtain.png"
+			heightOffset="-0.2" iconsize="0.6" alpha="0.75" />
+		<!-- Skips -->
+		<!-- Mesmer Port 1 -->
+		<POI type="peak.w2.skips.p1" MapID="1149" xpos="166.5526" ypos="2.452791" zpos="-24.3406"
+			GUID="HinfAp1ga021dnLp7VccbQ==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<POI type="peak.w2.skips.p1" MapID="1149" xpos="113.466" ypos="69.96576" zpos="-97.28742"
+			GUID="g8skjXiwPUO5FiVBr3mxhg==" iconfile="Data/markers/skills/portal_exeunt.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Mesmer Port 2 -->
+		<poi type="peak.w2.skips.p2" mapid="1149" xpos="-32.7912" ypos="7.76554" zpos="-214.276"
+			guid="T/XBzPYj2kuklNtv8ehLPg==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+		<poi type="peak.w2.skips.p2" mapid="1149" xpos="-34.22" ypos="79.8" zpos="-123.9"
+			guid="m18lw/76/UGZAl51Aa8Xpg==" iconfile="Data/markers/skills/portal_entre.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Thief Port -->
+		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-104.9641" ypos="105.6987" zpos="200.625"
+			GUID="ZML1eMlEmk6vWBgqN5ISuQ==" guid="T/XBzPYj2kuklNtv8ehLPg=="
+			iconfile="Data/markers/skills/shadow_portal.png" iconSize="0.5" heightOffset="-0.5" />
+		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-150.7783" ypos="131.5272" zpos="114.7843"
+			GUID="k0Icibucl02BVRjfG+vdOg==" iconfile="Data/markers/skills/prepare_shadow_portal.png"
+			iconSize="0.5" heightOffset="-0.5" />
+
+		<!-- Trio Jumping Puzzle -->
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="113.176041" zpos="-80.11774" ypos="79.6204"
+			guid="m6i0RO/RTEuDWQtlCMndGQ==" iconfile="Data/markers/dot.png" color="FF0000"
+			iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100" heightoffset="0"
+			minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="108.145088" zpos="-84.73575"
+			ypos="79.72492" guid="HR/ohWQPikCyryvKbC2T7A==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="105.092232" zpos="-89.50587"
+			ypos="79.4767761" guid="HNktqdvOVEiDgAR3N9V1TA==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="100.391594" zpos="-93.5762253"
+			ypos="80.07212" guid="VIye+Ekod0O4a1uFLgzY4w==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="13.353548" zpos="-125.532356"
+			ypos="66.34695" guid="Dni7KFc5tEKXh7ghwTFgfA==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="14.2389545" zpos="-123.11451"
+			ypos="67.76281" guid="tSOVoZ1gB0617SiHOAGefA==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="12.5389318" zpos="-123.81147"
+			ypos="69.38205" guid="9A2T85wZvk+MhytZDwVAdA==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="9.869298" zpos="-126.0659" ypos="69.85894"
+			guid="nyqiFwe6V0WmoaDoIjimzA==" iconfile="Data/markers/dot.png" color="FF0000"
+			iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100" heightoffset="0"
+			minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="4.7944603" zpos="-124.481461"
+			ypos="72.66732" guid="zcczZjzMhkyad6MRVW2X4Q==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="2.971874" zpos="-122.63018" ypos="73.60767"
+			guid="iRovmy3Q9kuh61D0uAz+Ag==" iconfile="Data/markers/dot.png" color="FF0000"
+			iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100" heightoffset="0"
+			minimapvisibility="0" mapvisibility="0" />
+		<poi type="peak.w2.skips.jp1" mapid="1149" xpos="0.9693102" zpos="-122.508804"
+			ypos="75.8097" guid="7fTcs0hexEG9zYBvGqwwzw==" iconfile="Data/markers/dot.png"
+			color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
+			heightoffset="0" minimapvisibility="0" mapvisibility="0" />
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="35.45574" ypos="58.76468" zpos="-117.4335"
+			GUID="F8ewroYCoUSF08V80iw9JQ==" iconfile="Data/markers/markers/arrow.png"
+			minimapvisibility="0" mapvisibility="0" fadenear="3000" fadefar="3100" iconsize="0.75"
+			heightoffset="0" />
+		<POI type="peak.w2.skips.jp1" MapID="1149" xpos="30.5426" ypos="58.76871" zpos="-125.6656"
+			GUID="QTxcrs2f70GO9Pt4D7pFWA==" iconfile="Data/markers/markers/circle.png"
+			minimapvisibility="0" mapvisibility="0" fadenear="3000" fadefar="3100" iconsize="0.75"
+			heightoffset="0" />
+
+		<!-- Matthias Jumping Puzzle -->
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-121.842" ypos="115.416" zpos="103.4"
+			guid="0YBPlV97j0at5gk2zqemTg==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-121.971" ypos="116.831" zpos="105.49"
+			guid="xcYwzq3ngkeUGKHxBDp+GQ==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-122.822" ypos="118.132" zpos="103.794"
+			guid="LZFXyoPcKECzaViXz/Joow==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-121" ypos="114.585" zpos="104.302"
+			guid="/ryXAo9hCkySPlwYHhumtA==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-135.84" ypos="123.103" zpos="97.2212"
+			guid="FN+3+zjR+UOLxSVC59x3Iw==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-134.914" ypos="121.097" zpos="96.0878"
+			guid="pRKbRadVOk6MHWZQ0JHJsw==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-105.415" ypos="126.924" zpos="126.403"
+			guid="wbPCMuu9H0KJ1dSYtIU6/g==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-108.61" ypos="128.61" zpos="130.598"
+			guid="wE7cjWoUpkeUgUwhMJvQLQ==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-118.45" ypos="112.48" zpos="107.399"
+			guid="YZx4X1P/ck2pgxihjFQ5Ng==" />
+		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-119.193" ypos="113.306" zpos="104.889"
+			guid="1WapRXl37Uq8WOlqqjSPUQ==" />
+
+		<!-- Matthias Cliff Skip -->
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-59.6" ypos="98.7" zpos="0.5"
+			guid="Y+1w+ilmU0eEmPUrpXOtrQ==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-66.4" ypos="97.4" zpos="12.2"
+			guid="qnLm40WyC0C49K5JiLzZuQ==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-66.7" ypos="99.3" zpos="15.4"
+			guid="Q+6yYoiXTUmWkh1mBvSmww==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-68.8" ypos="101.5" zpos="24.2"
+			guid="xzvtuUCZ6EKFzTNO9YMuTw==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-72.3" ypos="101.9" zpos="28.4"
+			guid="czUrkajMoU6nXpyKJOmu8w==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-75.7" ypos="103" zpos="31.4"
+			guid="Y7suY5XnK0SQWt2XgWTUOg==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-77.6" ypos="104" zpos="33.5"
+			guid="S0x+j/EC20K+r+24BesDtw==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-78.9" ypos="105.4" zpos="35.4"
+			guid="vng+jcOVO0m44vkiVWCvhA==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-97.5" ypos="106.6" zpos="60.9"
+			guid="J+1tYf9IxUOcgulmNxFd8Q==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-108.7" ypos="106" zpos="68.7"
+			guid="v+cc4d9OzkCi67FEKtCgRQ==" />
+		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-109.4" ypos="109.2" zpos="72.6"
+			guid="jvEKzhjkO0mp9AmR2BZtgg==" />
+
+		<!-- Matthias Pre Event -->
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-32.2063" ypos="104.702" zpos="29.303"
+			guid="cGuNUldOQ0KBzJYapxRAYw==" iconfile="Data/markers/markers/circle.png" />
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-60.774" ypos="91.7624" zpos="-16.734"
+			guid="2w9YUNO1i0qGloPEL2XscA==" iconfile="Data/markers/markers/arrow.png" />
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-8.38354" ypos="106.048" zpos="124.745"
+			guid="so7A77F/N0aQFo/kjYB0Zg==" iconfile="Data/markers/markers/heart.png" />
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-62.9943" ypos="110.194" zpos="173.5"
+			guid="Hd4E6LxKD0SBn35IHh7EXw==" iconfile="Data/markers/markers/square.png" />
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-114.134" ypos="104.158" zpos="214.908"
+			guid="vFx8mXzHj0KzrLWwiHSDjw==" iconfile="Data/markers/markers/star.png" />
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-83.9516" ypos="109.59" zpos="133.132"
+			guid="17S8SXHmAUWwHcpzZz8Kbw==" iconfile="Data/markers/markers/spiral.png" />
+		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-105.054" ypos="109.724" zpos="93.0954"
+			guid="BqJcnxOF7UWWWGAQ3fFmAw==" iconfile="Data/markers/markers/triangle.png" />
+
+	</POIs>
+
+</OverlayData>
+	
+	
+	
