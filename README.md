@@ -1,7 +1,7 @@
 # Markers for GW2 Blish HUD Pathing module
 
 ## Setup
-- Download the latest `PEAK.zip` in [releases](https://github.com/AersiaNightingale/PEAK-Infallible-Pack/releases)
+- Download the latest `PEAK.zip` in [releases](https://github.com/AersiaNightingale/PEAK-Infallible-Markers/releases)
 - Do not extract the zip.
 - Copy or move the zip to `~/Documents/Guild Wars 2/addons/blishhud/markers`
 - Disable and enable the pathing module, or relaunch blishhud, or relaunch gw2.
