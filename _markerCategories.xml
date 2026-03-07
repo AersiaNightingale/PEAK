@@ -61,6 +61,16 @@
 				<MarkerCategory name="skips" displayName="Skips" minimapvisibility="0"
 					mapvisibility="0" fadenear="3000" fadefar="3100" />
 			</MarkerCategory>
+			<MarkerCategory name="xera" displayName="Xera">
+				<MarkerCategory name="right" displayName="Right" minimapvisibility="0"
+					mapvisibility="0" fadenear="3000" fadefar="3100">
+					<MarkerCategory name="rt1" displayName="First Tower"/>
+				</MarkerCategory>
+				<MarkerCategory name="left" displayName="Left" minimapvisibility="0"
+					mapvisibility="0" fadenear="3000" fadefar="3100">
+					<MarkerCategory name="lt1" displayName="First Tower"/>
+				</MarkerCategory>
+			</MarkerCategory>
 		</MarkerCategory>
 
 		<!-- Wing 4 -->

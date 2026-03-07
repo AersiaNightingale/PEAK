@@ -109,6 +109,13 @@
 		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-148.2076" ypos="136.4968" zpos="154.7099"
 			GUID="B+2eB+BAFUSjW3uwBybXgA==" iconfile="Data/markers/skills/weapon_swap.png"
 			iconsize="0.5" heightoffset="0" />
+
+		<!-- Xera -->
+		<POI type="peak.w3.xera.right.rt1" MapID="1156" xpos="-102.6443" ypos="512.7446" zpos="-39.15625" GUID="NdvDZEYHY06emrGFtVDkaQ==" iconfile="Data/markers/skills/illusionary_wave.png"
+			iconsize="0.5" heightoffset="0"/>
+		<POI type="peak.w3.xera.left.lt1" MapID="1156" xpos="-15.24128" ypos="512.7446" zpos="-69.44787" GUID="bCkcA0MkGkCaRko2gRtGuQ==" iconfile="Data/markers/skills/illusionary_wave.png"
+			iconsize="0.5" heightoffset="0"/>
+
 	</POIs>
 </OverlayData>
 	

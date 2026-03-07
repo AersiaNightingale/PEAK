@@ -38,7 +38,7 @@
 
 		<!-- Thief Port -->
 		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-104.9641" ypos="105.6987" zpos="200.625"
-			GUID="ZML1eMlEmk6vWBgqN5ISuQ==" guid="T/XBzPYj2kuklNtv8ehLPg=="
+			GUID="ZML1eMlEmk6vWBgqN5ISuQ==" guid="uuig31OSDkOZIGFCruz1ew=="
 			iconfile="Data/markers/skills/shadow_portal.png" iconSize="0.5" heightOffset="-0.5" />
 		<poi type="peak.w2.skips.p3" mapid="1149" xpos="-150.7783" ypos="131.5272" zpos="114.7843"
 			GUID="k0Icibucl02BVRjfG+vdOg==" iconfile="Data/markers/skills/prepare_shadow_portal.png"

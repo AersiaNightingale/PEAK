@@ -25,10 +25,10 @@
 			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<POI type="peak.w4.skips.p2" MapID="1188" xpos="75.60638" ypos="105.7814" zpos="173.2348"
-			GUID="pf7LvC46FUCIg2BM0+cnsQ==" iconfile="Data/markers/skills/portal_entre.png"
+			GUID="0ymN9KguQUe1ocfJcwYTeQ==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<POI type="peak.w4.skips.p2" MapID="1188" xpos="-46.38326" ypos="96.53172" zpos="188.2937"
-			GUID="lkJlBd0XYE2hsDXj4AsgnQ==" iconfile="Data/markers/skills/portal_exeunt.png"
+			GUID="nledRqqHZUqXQYk6uanClQ==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 		<POI type="peak.w4.skips.p3" MapID="1188" xpos="-132.8638" ypos="125.3986" zpos="164.0437"
 			GUID="p3MO07z2y0i+9v/u7un8nw==" iconfile="Data/markers/skills/portal_entre.png"
@@ -72,19 +72,19 @@
 			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/3.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-125.1438" ypos="129.5166" zpos="60.9625"
-			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/4.png"
+			GUID="jqmlptQ21kKWjG8yFar16Q==" iconfile="Data/markers/numbers/4.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-127.46" ypos="129.5237" zpos="77.98724"
-			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/5.png"
+			GUID="qeMpmLJ5SUilOHkD9LEwOQ==" iconfile="Data/markers/numbers/5.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-117.4397" ypos="129.5109" zpos="77.35504"
-			GUID="0ST1uhCx+Ui0N9I7rkrKKA==" iconfile="Data/markers/numbers/6.png"
+			GUID="+hEQhG5G1EiHyI6U2gUJbg==" iconfile="Data/markers/numbers/6.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-109.6467" ypos="129.5106" zpos="85.42272"
 			GUID="pMlXlVwfpUGmNeVbfJnfTw==" iconfile="Data/markers/numbers/7.png"
 			heightOffset="-0.2" />
 		<POI type="peak.w4.samy.stack" MapID="1188" xpos="-101.1629" ypos="129.4949" zpos="78.19231"
-			GUID="pMlXlVwfpUGmNeVbfJnfTw==" iconfile="Data/markers/numbers/8.png"
+			GUID="N3A62ZZ37UOVt7sJMiTzzg==" iconfile="Data/markers/numbers/8.png"
 			heightOffset="-0.2" />
 		<!-- Focus Pull -->
 		<POI type="peak.w4.samy.fp" MapID="1188" xpos="-132.6031" ypos="129.4804" zpos="73.59577"
