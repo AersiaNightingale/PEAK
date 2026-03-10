@@ -69,26 +69,30 @@
 
         <!-- Dhuum -->
         <poi type="peak.w5.dhuum" mapid="1264" xpos="429.051" ypos="158.623" zpos="30.7413"
-            guid="+NVxEzOMik6N+SeDeue4Zw==" iconfile="Data/markers/markers/arrow.png" alpha="1"
-            fadenear="5000" fadefar="5100" heightoffset="-0.5" />
+            guid="+NVxEzOMik6N+SeDeue4Zw==" iconfile="Data/markers/markers/arrow.png"
+            heightoffset="-0.5" />
         <poi type="peak.w5.dhuum" mapid="1264" xpos="427.904" ypos="158.665" zpos="1.97305"
-            guid="Ds1W1dwIiU+mpKNDSeWn3g==" iconfile="Data/markers/markers/circle.png" alpha="1"
-            fadenear="5000" fadefar="5100" heightoffset="-0.5" />
+            guid="Ds1W1dwIiU+mpKNDSeWn3g==" iconfile="Data/markers/markers/circle.png"
+            heightoffset="-0.5" />
         <poi type="peak.w5.dhuum" mapid="1264" xpos="404.808" ypos="158.64" zpos="-14.862"
-            guid="4WtBMqzD3EyiDx31XT6i2w==" iconfile="Data/markers/markers/heart.png" fadenear="4500"
-            fadefar="4600" heightoffset="-0.5" />
+            guid="4WtBMqzD3EyiDx31XT6i2w==" iconfile="Data/markers/markers/heart.png"
+            heightoffset="-0.5" />
         <poi type="peak.w5.dhuum" mapid="1264" xpos="377.819" ypos="158.657" zpos="-6.60314"
-            guid="y/BRpS+U50SiX8FY8E51sw==" iconfile="Data/markers/markers/square.png" fadenear="3500"
-            fadefar="3600" heightoffset="-0.5" />
+            guid="y/BRpS+U50SiX8FY8E51sw==" iconfile="Data/markers/markers/square.png"
+            heightoffset="-0.5" />
         <poi type="peak.w5.dhuum" mapid="1264" xpos="365.887" ypos="158.668" zpos="19.4137"
-            guid="0hLGImDyUkOeolGOG0XjRA==" iconfile="Data/markers/markers/star.png" fadenear="3000"
-            fadefar="3100" heightoffset="-0.5" />
+            guid="0hLGImDyUkOeolGOG0XjRA==" iconfile="Data/markers/markers/star.png"
+            heightoffset="-0.5" />
         <poi type="peak.w5.dhuum" mapid="1264" xpos="379.1" ypos="158.635" zpos="44.71"
-            guid="TWVZ0voY9U2vNN7D1pGtkA==" iconfile="Data/markers/markers/spiral.png" fadenear="3500"
-            fadefar="3600" heightoffset="-0.5" />
+            guid="TWVZ0voY9U2vNN7D1pGtkA==" iconfile="Data/markers/markers/spiral.png"
+            heightoffset="-0.5" />
         <poi type="peak.w5.dhuum" mapid="1264" xpos="407.779" ypos="158.56" zpos="50.0276"
-            guid="dwH+hhAXqE2QkW3yA8qVhA==" iconfile="Data/markers/markers/triangle.png" fadenear="4500"
-            fadefar="4600" heightoffset="-0.5" />
+            guid="dwH+hhAXqE2QkW3yA8qVhA==" iconfile="Data/markers/markers/triangle.png"
+            heightoffset="-0.5" />
+        <POI type="peak.w5.dhuum" MapID="1264" xpos="422.632" ypos="157.866" zpos="41.82362"
+            GUID="Q0LM1XghD0yx0t1PzT7oTQ==" iconfile="Data/markers/dot.png"
+            miniMapVisibility="0" mapVisibility="0" iconSize="0.75" color="FF33FF"
+            heightOffset="-0.42" />
     </POIs>
 
 </OverlayData>
