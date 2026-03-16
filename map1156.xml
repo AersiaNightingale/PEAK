@@ -56,8 +56,11 @@
 			iconsize="0.2" minimapvisibility="0" mapvisibility="0" />
 		<poi type="peak.w3.tc.skips" mapid="1156" xpos="-173.835" ypos="118.221" zpos="99.5631"
 			guid="ggWg/UpNb0WPi+Ojjs2JNw==" iconfile="Data/markers/skills/Portal_Exeunt.png" />
+
 		<poi type="peak.w3.tc.skips" mapid="1156" xpos="-40.905" ypos="240.092" zpos="-97.8241"
-			guid="UDX87udE1EGHTZh9DjxGRg==" iconfile="Data/markers/skills/Blink.png" />
+			guid="UDX87udE1EGHTZh9DjxGRg==" iconfile="Data/markers/dot.png" color="FF33FF"
+			iconsize="0.4" heightOffset="0" />
+
 		<poi type="peak.w3.tc.skips" mapid="1156" xpos="-153.697" ypos="196.764" zpos="-12.8636"
 			guid="kcAi7Xl5OE6jqnQ7ovh+lA==" iconfile="Data/markers/dot.png" color="FF0000"
 			iconsize="0.2" minimapvisibility="0" mapvisibility="0" />
@@ -73,18 +76,31 @@
 		<poi type="peak.w3.tc.skips" mapid="1156" xpos="-178.101" ypos="118.519" zpos="82.3819"
 			guid="mqzDl8/5gkKLWIjpET5qtw==" iconfile="Data/markers/skills/Temporal_Curtain.png"
 			heightoffset="0" />
-		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-65.9122" ypos="134.6843"
-			zpos="434.2024" guid="GZ2QsGRNdE+3zy5I/jkaTw=="
-			iconfile="Data/markers/skills/Portal_exeunt.png" />
-		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-45.6586" ypos="137.0411"
-			zpos="453.3826" guid="YyBagR90RUmNSFmgPcvFlA=="
-			iconfile="Data/markers/skills/Portal_Entre.png" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-49.18652" ypos="116.2046"
 			zpos="485.3443" guid="Gaj6Okp+AEGXdGT4SIVlRQ=="
 			iconfile="Data/markers/skills/overhere.png" />
 		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-30.68482" ypos="114.6271"
 			zpos="465.1416" guid="uzEU0XNPfUCcmttxLgYFKA=="
 			iconfile="Data/markers/skills/overhere.png" />
+		<!-- Cave Skip -->
+		<poi type="peak.w3.escort.caveskip" mapid="1156" xpos="66.1464" ypos="87.6074" zpos="512.61"
+            guid="C0qUJmMvHE+MhTxpbpM3kg==" iconfile="Data/markers/skills/Shadow_Portal.png" />
+        <poi type="peak.w3.escort.caveskip" mapid="1156" xpos="59.3661" ypos="100.583" zpos="506.459"
+            guid="g0uRPkLfwkyIt7rrJ8Yuww==" iconfile="Data/markers/skills/Prepare_Shadow_Portal.png" />
+		<POI type="peak.w3.escort.caveskip" MapID="1156" xpos="70.22233" ypos="88.71705" zpos="480.9092" GUID="hNArhgs78EGFtpkX+SNTow==" iconfile="Data/markers/dot.png" color="FF0000" minimapvisibility="0" mapvisibility="0" />
+
+		<poi type="peak.w3.escort.towers" mapid="1156" xpos="43.28149" ypos="109.4543"
+			zpos="520.4016"
+			guid="+LhIyHkpeE25SsHyyDwYGA==" iconfile="Data/markers/skills/Psychic_Force.png" />
+		<poi type="peak.w3.escort.towers" mapid="1156" xpos="0.649924" ypos="115.381" zpos="527.412"
+			guid="jrcwh5FHE0KCZg2Q4proRw==" iconfile="Data/markers/skills/Glyph_of_the_Tides.png" />
+		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-58.7003" ypos="125.783" zpos="525.625"
+			guid="rqrvVC9+5Umiv1hC3OiNPA==" iconfile="Data/markers/skills/temporal_curtain.png" />
+		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-40.4503" ypos="137.041" zpos="458.277"
+			guid="55k2WlZoBUqnhXF0pZQwCA==" iconfile="Data/markers/skills/Psychic_Force.png" />
+		<poi type="peak.w3.escort.towers" mapid="1156" xpos="-112.758" ypos="154.732" zpos="455.881"
+			guid="XJBuRKRQE0OCr/YUPUqHyA==" iconfile="Data/markers/skills/Glyph_of_the_Tides.png" />
+
 		<!-- Keep Construct -->
 		<POI type="peak.w3.kc.rift" mapid="1156" xpos="-97.6219" ypos="150.1515" zpos="218.5421"
 			GUID="0jklRsUlBkeOEttD+5Kikw==" iconfile="Data/markers/markers/arrow.png" />
@@ -109,13 +125,42 @@
 		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-148.2076" ypos="136.4968" zpos="154.7099"
 			GUID="B+2eB+BAFUSjW3uwBybXgA==" iconfile="Data/markers/skills/weapon_swap.png"
 			iconsize="0.5" heightoffset="0" />
+		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-166.0986" ypos="199.5099" zpos="-59.11759"
+			GUID="G493JXbhPkO6eVfx0rWbFQ==" iconfile="Data/markers/skills/blink.png"
+			iconsize="0.5" heightoffset="0" />
+		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-146.2103" ypos="212.6697" zpos="-66.57728"
+			GUID="4Ze6o+M/UEG6PxNtJBpgqw==" iconfile="Data/markers/dot.png" color="FF33FF"
+			iconsize="0.4" heightOffset="0" />
+		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-130.6105" ypos="212.4561" zpos="-68.90795"
+			GUID="bDM90qCyJ0i36YveWyQHBA==" iconfile="Data/markers/skills/mirage_thrust.png"
+			iconsize="0.5" heightOffset="0" />
+		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-113.5622" ypos="211.6998" zpos="-75.36677"
+			GUID="Hyrt5oIX8EOiFONY8c/8cg==" iconfile="Data/markers/dot.png" color="FF0000"
+			iconsize="0.2" heightOffset="0" />
+		<POI type="peak.w3.tc.skips" MapID="1156" xpos="-43.88992" ypos="212.3562" zpos="-97.05687"
+			GUID="Bhqfkij7Uk6AWcMZkAYK1w==" iconfile="Data/markers/skills/blink.png"
+			iconsize="0.5" heightoffset="0" />
 
 		<!-- Xera -->
-		<POI type="peak.w3.xera.right.rt1" MapID="1156" xpos="-102.6443" ypos="512.7446" zpos="-39.15625" GUID="NdvDZEYHY06emrGFtVDkaQ==" iconfile="Data/markers/skills/illusionary_wave.png"
-			iconsize="0.5" heightoffset="0"/>
-		<POI type="peak.w3.xera.left.lt1" MapID="1156" xpos="-15.24128" ypos="512.7446" zpos="-69.44787" GUID="bCkcA0MkGkCaRko2gRtGuQ==" iconfile="Data/markers/skills/illusionary_wave.png"
-			iconsize="0.5" heightoffset="0"/>
+		<POI type="peak.w3.xera.right" MapID="1156" xpos="-102.6443" ypos="512.7446"
+			zpos="-39.15625" GUID="NdvDZEYHY06emrGFtVDkaQ=="
+			iconfile="Data/markers/skills/illusionary_wave.png"
+			iconsize="0.5" heightoffset="0" />
+		<POI type="peak.w3.xera.left" MapID="1156" xpos="-15.24128" ypos="512.7446"
+			zpos="-69.44787" GUID="bCkcA0MkGkCaRko2gRtGuQ=="
+			iconfile="Data/markers/skills/illusionary_wave.png"
+			iconsize="0.5" heightoffset="0" />
+		<POI type="peak.w3.xera.left" MapID="1156" xpos="-14.91818" ypos="512.7447"
+			zpos="-88.70264" GUID="1uS68/yU/ESkeCrl+cmqaQ==" iconfile="Data/markers/dot.png"
+			color="FF33FF"
+			iconsize="0.4" heightOffset="0" />
 
+		<POI type="peak.w3.xera.center" MapID="1156" xpos="-78.05822" ypos="512.3542"
+			zpos="-80.05057" GUID="LSM26a3T9kmErFjDtO1IAg=="
+			iconfile="Data/markers/markers/arrow.png" />
+		<POI type="peak.w3.xera.center" MapID="1156" xpos="-90.31609" ypos="512.3542"
+			zpos="-80.5742" GUID="ecoVzmnnn0+Ib/EhufYDrA=="
+			iconfile="Data/markers/markers/circle.png" />
 	</POIs>
 </OverlayData>
 	

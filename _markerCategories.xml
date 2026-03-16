@@ -3,7 +3,7 @@
 
 	<MarkerCategory name="peak" displayName="PEAK Markers">
 
-		<!-- Wing 2 -->
+		<!-- Wing 1 -->
 		<MarkerCategory name="w1" displayname="Wing 1">
 			<MarkerCategory name="jp" displayname="Spirit Run Jump Puzzle" alpha="0.75"
 				fadenear="2000" fadefar="2100"
@@ -20,6 +20,7 @@
 					fadefar="500"
 					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0"/>
 			</MarkerCategory>
+			<MarkerCategory name="cull" displayname="Cull Bandits"/>
 			<MarkerCategory name="sab" displayname="Sabetha">
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
@@ -87,14 +88,11 @@
 					mapvisibility="0" fadenear="3000" fadefar="3100" />
 			</MarkerCategory>
 			<MarkerCategory name="xera" displayName="Xera">
-				<MarkerCategory name="right" displayName="Right" minimapvisibility="0"
-					mapvisibility="0" fadenear="3000" fadefar="3100">
-					<MarkerCategory name="rt1" displayName="First Tower" />
-				</MarkerCategory>
-				<MarkerCategory name="left" displayName="Left" minimapvisibility="0"
-					mapvisibility="0" fadenear="3000" fadefar="3100">
-					<MarkerCategory name="lt1" displayName="First Tower" />
-				</MarkerCategory>
+				<MarkerCategory name="right" displayName="Right Tower" minimapvisibility="0"
+					mapvisibility="0" fadenear="3000" fadefar="3100"/>
+				<MarkerCategory name="left" displayName="Left Tower" minimapvisibility="0"
+					mapvisibility="0" fadenear="3000" fadefar="3100"/>
+				<MarkerCategory name="center" displayName="Center Tower"  fadenear="3000" fadefar="3100" heightoffset="0" alpha="0.75"/>
 			</MarkerCategory>
 		</MarkerCategory>
 
