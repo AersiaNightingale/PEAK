@@ -8,9 +8,9 @@
 			<MarkerCategory name="jp" displayname="Spirit Run Jump Puzzle" alpha="0.75"
 				fadenear="2000" fadefar="2100"
 				heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-			<MarkerCategory name="gors" displayname="Gorseval" >
+			<MarkerCategory name="gors" displayname="Gorseval">
 				<MarkerCategory name="spirits" displayname="Spirits" fadenear="3000" fadefar="3100"
-				alpha="0.75" heightoffset="0.5" iconsize="0.75">
+					alpha="0.75" heightoffset="0.5" iconsize="0.75">
 					<MarkerCategory name="arrow" displayname="Arrow" />
 					<MarkerCategory name="circle" displayname="Circle" />
 					<MarkerCategory name="heart" displayname="Heart" />
@@ -18,13 +18,15 @@
 				</MarkerCategory>
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
-					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0"/>
+					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0" />
 			</MarkerCategory>
-			<MarkerCategory name="cull" displayname="Cull Bandits"/>
+			<MarkerCategory name="cull" displayname="Cull Bandits" iconsize="0.5" alpha="0.75"
+				fadenear="2000" fadefar="2100"
+				heightoffset="0"/>
 			<MarkerCategory name="sab" displayname="Sabetha">
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
-					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0"/>
+					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0" />
 				<MarkerCategory name="cannon" displayname="Cannon" />
 			</MarkerCategory>
 		</MarkerCategory>
@@ -89,10 +91,11 @@
 			</MarkerCategory>
 			<MarkerCategory name="xera" displayName="Xera">
 				<MarkerCategory name="right" displayName="Right Tower" minimapvisibility="0"
-					mapvisibility="0" fadenear="3000" fadefar="3100"/>
+					mapvisibility="0" fadenear="3000" fadefar="3100" />
 				<MarkerCategory name="left" displayName="Left Tower" minimapvisibility="0"
-					mapvisibility="0" fadenear="3000" fadefar="3100"/>
-				<MarkerCategory name="center" displayName="Center Tower"  fadenear="3000" fadefar="3100" heightoffset="0" alpha="0.75"/>
+					mapvisibility="0" fadenear="3000" fadefar="3100" />
+				<MarkerCategory name="center" displayName="Center Tower" fadenear="3000"
+					fadefar="3100" heightoffset="0" alpha="0.75" />
 			</MarkerCategory>
 		</MarkerCategory>
 
