@@ -177,10 +177,6 @@
         <trail type="peak.w1.sab.boundary" traildata="data/boundary/sabetha_boundary.trl"
             animspeed="0"
             alpha="0.9" texture="data/boundary/RedLine.png" mapid="1062" />
-        <POI type="peak.w1.sab.cannon" MapID="1062" xpos="-105.9848" ypos="62.64044" zpos="81.62442"
-            GUID="eAG1z3jmL0m+6MMhjsh1Zg==" iconfile="Data/markers/markers/square.png"
-            fadenear="3000" fadefar="3100"
-            alpha="0.75" heightoffset="0.5" iconsize="0.75" />
     </POIs>
 </OverlayData>
 	

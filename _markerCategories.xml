@@ -27,7 +27,6 @@
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
 					fadenear="375" trailscale="1.5" minimapvisibility="0" mapvisibility="0" />
-				<MarkerCategory name="cannon" displayname="Cannon" />
 			</MarkerCategory>
 		</MarkerCategory>
 
@@ -74,10 +73,6 @@
 					fadenear="4000" fadefar="4100" />
 			</MarkerCategory>
 			<MarkerCategory name="kc" displayName="Keep Construct">
-				<MarkerCategory name="rift" displayname="Rift" iconsize="0.5" alpha="0.75"
-					fadenear="2500" fadefar="3000" heightoffset="0" />
-				<MarkerCategory name="fixate" displayName="Far Fixate" fadenear="2000"
-					fadefar="2500" />
 				<MarkerCategory name="boundary" displayname="Boundary" fadefar="500" fadenear="375"
 					trailscale="1.5" />
 			</MarkerCategory>
