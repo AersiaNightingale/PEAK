@@ -52,24 +52,35 @@
 				<MarkerCategory name="p1" displayName="Mesmer Cave Portal" iconsize="0.5"
 					alpha="0.75"
 					fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="tp" displayName="Thief Portal" iconsize="0.5" alpha="0.75"
+				<MarkerCategory name="tp"
+					displayName="Thief Portal" iconsize="0.5" alpha="0.75"
 					fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="jp1" displayname="Trio JP" fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="jp2" displayname="Matthias JP" iconfile="Data/markers/dot.png"
+				<MarkerCategory name="jp1"
+					displayname="Trio JP" fadenear="5000" fadefar="5100" />
+				<MarkerCategory
+					name="jp2" displayname="Matthias JP" iconfile="Data/markers/dot.png"
 					color="FF0000" iconsize="0.2" alpha="0.75" fadenear="2000" fadefar="2100"
 					heightoffset="0" minimapvisibility="0" mapvisibility="0" />
-				<markercategory name="jp3" displayname="Matthias Cliff Skip"
+				<markercategory
+					name="jp3" displayname="Matthias Cliff Skip"
 					iconfile="Data/markers/dot.png" color="FF0000" iconsize="0.2" alpha="0.75"
 					fadenear="2000" fadefar="2100" heightoffset="0" minimapvisibility="0"
 					mapvisibility="0" />
-				<markercategory name="mattpre" displayname="Matthias Pre Groups" alpha="0.75"
+				<markercategory name="mattpre"
+					displayname="Matthias Pre Groups" alpha="0.75"
 					fadenear="3000" fadefar="3100" />
-				<MarkerCategory name="mmp1" displayName="Mimic Mesmer Portal 1" iconsize="0.5"
+				<MarkerCategory name="mmp1"
+					displayName="Mimic Mesmer Portal 1" iconsize="0.5"
 					alpha="0.75"
 					fadenear="5000" fadefar="5100" />
-				<MarkerCategory name="mmp2" displayName="Mimic Mesmer Portal 2" iconsize="0.5"
+				<MarkerCategory name="mmp2"
+					displayName="Mimic Mesmer Portal 2" iconsize="0.5"
 					alpha="0.75"
 					fadenear="5000" fadefar="5100" />
+				<MarkerCategory name="cliff"
+					displayName="Cliff" iconsize="1.0"
+					alpha="1.0" minimapvisibility="0" mapvisibility="0"
+					fadenear="1000" fadefar="1100" />
 			</MarkerCategory>
 		</MarkerCategory>
 

@@ -39,10 +39,10 @@
 			iconSize="0.5" heightOffset="-0.5" />
 
 		<POI type="peak.w2.skips.mmp1" MapID="1149" xpos="-150.9783" ypos="131.5231" zpos="114.2938"
-			GUID="CwBWXbWVKEKV97XG6l2X+w==" iconfile="Data/markers/skills/portal_entre.png"
+			GUID="CwBWXbWVKEKV97XG6l2X+w==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w2.skips.mmp1" MapID="1149" xpos="-67.01891" ypos="112.1916" zpos="162.4606"
-			GUID="WlnnB07MBkeafiNvGTM4lw==" iconfile="Data/markers/skills/portal_exeunt.png"
+		<POI type="peak.w2.skips.mmp1" MapID="1149" xpos="-92.85767" ypos="129.3461" zpos="149.7357"
+			GUID="WlnnB07MBkeafiNvGTM4lw==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
 
 		<!-- Mimic Mesmer Port 2 -->
@@ -55,10 +55,10 @@
 		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-36.31393" ypos="82.42908" zpos="-116.0868" GUID="UcSbVp4gaUWD3ZKZh/HLiQ==" iconfile="Data/markers/skills/mimic.png"
 			iconSize="0.5" heightOffset="-0.5" />
 
-		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-61.71204" ypos="110.2598" zpos="169.5581"
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-94.02403" ypos="129.7633" zpos="160.0737"
 			GUID="f4oHxY9GCUWxTFLllrJ49Q==" iconfile="Data/markers/skills/portal_entre.png"
 			iconSize="0.5" heightOffset="-0.5" />
-		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-9.835631" ypos="106.1214" zpos="126.4763"
+		<POI type="peak.w2.skips.mmp2" MapID="1149" xpos="-52.75571" ypos="110.4715" zpos="161.8268"
 			GUID="ZTfmKC/myEu6foD+wG3mkA==" iconfile="Data/markers/skills/portal_exeunt.png"
 			iconSize="0.5" heightOffset="-0.5" />
 
@@ -202,8 +202,6 @@
 			guid="YZx4X1P/ck2pgxihjFQ5Ng==" />
 		<poi type="peak.w2.skips.jp2" mapid="1149" xpos="-119.193" ypos="113.306" zpos="104.889"
 			guid="1WapRXl37Uq8WOlqqjSPUQ==" />
-		<POI type="peak.w2.skips.jp2" MapID="1149" xpos="-96.59741" ypos="129.2528" zpos="163.8358"
-			GUID="Lqa0hPJ4tEyVlsAeke+puw==" />
 
 		<!-- Matthias Cliff Skip -->
 		<poi type="peak.w2.skips.jp3" mapid="1149" xpos="-59.6" ypos="98.7" zpos="0.5"
@@ -244,6 +242,11 @@
 			guid="17S8SXHmAUWwHcpzZz8Kbw==" iconfile="Data/markers/markers/spiral.png" />
 		<poi type="peak.w2.skips.mattpre" mapid="1149" xpos="-105.054" ypos="109.724" zpos="93.0954"
 			guid="BqJcnxOF7UWWWGAQ3fFmAw==" iconfile="Data/markers/markers/triangle.png" />
+
+		<!--Cliff -->
+		<POI type="peak.w2.skips.cliff" MapID="1149" xpos="-88.68104" ypos="129.0521" zpos="160.88" GUID="zC9xel0Vm0u5E6lD09CAOw==" iconfile="Data/markers/icons/stop.png" rotate-y="90" rotate-z="45"/>
+		<POI type="peak.w2.skips.cliff" MapID="1149" xpos="-87.14039" ypos="129.1498" zpos="158.5284" GUID="MxUx1hhoQ0K8unm2Oey2Ag==" iconfile="Data/markers/icons/stop.png" rotate-y="90" rotate-z="25"/>
+		<POI type="peak.w2.skips.cliff" MapID="1149" xpos="-96.34364" ypos="129.7676" zpos="162.4081" GUID="pL/l2tUFWEqvLxslNkCYQw==" iconfile="Data/markers/icons/green_arrow.png" rotate-z="205" heightoffset="-0.5"/>
 
 		<!-- Matthias -->
 		<POI type="peak.w2.matt.fountain" MapID="1149" xpos="-160.6165" ypos="131.5231"
