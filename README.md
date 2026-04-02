@@ -9,5 +9,5 @@ This marker pack contains skips, stack spots, jumping puzzles, and other useful 
 - Disable and enable the pathing module, or relaunch blishhud, or relaunch gw2.
   
 ## Credits
-- Flaticon icons by: Md Tanvirul Haque, iconsax, Romica
+- Flaticon icons by: Md Tanvirul Haque, iconsax, Romica, hqrloveq, Alfredo Creates
 - Some markers and POI information from [HasKha](https://github.com/HasKha/gw2-markers) and [QuitarHero](https://github.com/QuitarHero/Heros-Marker-Pack)'s marker packs
