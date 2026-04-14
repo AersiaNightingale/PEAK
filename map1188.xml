@@ -83,6 +83,12 @@
 		<!-- Deimos Kite Half-->
 		<POI type="peak.w4.deimos.kite" MapID="1188" xpos="-212.7247" ypos="101.923" zpos="101.5403" GUID="xMSqgnSKpk+tn+J3/PyYSQ==" iconfile="Data/markers/icons/kite.png" iconSize="0.5" alpha="0.75"
 			heightOffset="-0.2"/>
+		<!-- Deimos Tank Spots-->
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-209.8504" ypos="101.9282" zpos="66.72187" GUID="6L3cw6F9nEu8BA+RITKxYA==" iconfile="Data/markers/markers/arrow.png"/>
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-222.1016" ypos="101.9279" zpos="71.21384" GUID="E4V93usWFECsPL25RHBdsQ==" iconfile="Data/markers/markers/circle.png"/>
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-230.871" ypos="101.9234" zpos="75.6821" GUID="WBxj8d9r90iaEeV4DOqvVA==" iconfile="Data/markers/markers/heart.png"/>
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-228.2576" ypos="101.9231" zpos="64.77581" GUID="66/6T3cNp0GbUsjkP2gb+g==" iconfile="Data/markers/markers/square.png"/>
+		<POI type="peak.w4.deimos.tank" MapID="1188" xpos="-218.787" ypos="101.9234" zpos="60.52311" GUID="+gbOf1nlcE2LPPm6trLPew==" iconfile="Data/markers/markers/star.png"/>
 		<!-- Skips -->
 		<POI type="peak.w4.skips.b1" MapID="1188" xpos="188.036" ypos="40.73811" zpos="66.2895"
 			GUID="u4I0pGPaSUmv96Yy+6ukjw==" iconfile="Data/markers/skills/blink.png" iconSize="0.3"

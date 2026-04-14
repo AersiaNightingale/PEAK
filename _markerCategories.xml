@@ -148,6 +148,7 @@
 					<MarkerCategory name="w" displayName="West"
 						iconFile="Data/Markers/direction/w.png" />
 				</MarkerCategory>
+				<MarkerCategory name="tank" displayName="Tank Spots" heightOffset="0.25" iconSize="0.75"/>		
 				<MarkerCategory name="boundary" displayname="Boundary" cull="CounterClockwise"
 					fadefar="500"
 					fadenear="375" trailscale="1.5" mapvisibility="0" minimapvisibility="0" />
@@ -197,6 +198,8 @@
 		<MarkerCategory name="w7" displayName="Wing 7">
 			<MarkerCategory name="oob" displayName="Out Of Bounds Skip" fadenear="3000"
 				fadefar="3100" mapvisibility="0" minimapvisibility="0" />
+			<MarkerCategory name="portals" displayName="Portals" fadenear="3000"
+				fadefar="3100" iconSize="0.5" heightOffset="0"/>
 			<MarkerCategory name="qtp" displayName="QtP Fires" fadenear="3000" fadefar="3100"
 				color="FF33FF">
 				<MarkerCategory name="n" displayName="North Pylon" />
